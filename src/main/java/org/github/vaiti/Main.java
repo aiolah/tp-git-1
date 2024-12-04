@@ -7,5 +7,6 @@ public class Main
         // This is a comment
         System.out.println("Hello world!");
         System.out.println("Gabin est venu sur ton code");
+        System.out.println("Ça ne se passera pas comme ça !!!");
     }
 }
